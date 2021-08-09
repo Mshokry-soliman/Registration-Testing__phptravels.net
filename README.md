@@ -1,4 +1,4 @@
-Testing the registration Function
+Testing the Registration Function
 
 Test cases:
 1.	Sending Valid values for all Fields .
