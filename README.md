@@ -1,4 +1,4 @@
-Testing the Registration Function
+Testing the Registration Function for phptravels.net/register
 
 Test cases:
 1.	Sending Valid values for all Fields .
